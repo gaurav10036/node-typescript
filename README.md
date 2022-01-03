@@ -14,3 +14,6 @@ $ cd node-typescript
 $ cd server & npm i
 $ npm start
 ```
+```bash
+$ export MONGO_DB_URL=mongodb://localhost:27017/express_ts
+```
